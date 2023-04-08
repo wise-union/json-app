@@ -1,0 +1,6 @@
+npx esbuild project-list.js --bundle --outfile=bundle.js
+npx esbuild html-head.js --bundle --outfile=bundle.js
+
+
+
+npx esbuild main-page.js --bundle --outfile=bundle.js
